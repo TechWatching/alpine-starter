@@ -1,0 +1,7 @@
+{
+  "media": {
+    "xs": {
+      "value": "(min-width: 435px)"
+    }
+  }
+}
